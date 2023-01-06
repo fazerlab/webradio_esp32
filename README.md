@@ -4,7 +4,7 @@ Internet Radio com ESP32
 
 Em breve documentação  
 - Diagrama
-- Gravação do Firmware  
+- Guia para [Gravação do Firmware](docs/guia_gravador_firmware.pdf)
 - Utilização  
 
 
